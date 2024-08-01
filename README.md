@@ -1,21 +1,22 @@
 # Zomato-EDA
 
-## Project Overview
+## Overview 📝
 
 This project involves analyzing restaurant data from Zomato for Bangalore using Python. The analysis focuses on various aspects such as restaurant distribution, online ordering facilities, booking trends, and ratings. The goal is to uncover insights into consumer preferences, restaurant performance, and market opportunities using NumPy, Pandas, Matplotlib, Seaborn.
 
-## Dataset
+## Dataset 📊
 
 The dataset used for this analysis can be found [here](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants). It contains information on restaurants in Bangalore, including details about cuisines, ratings, online ordering availability, booking facilities, and more.
 
-## Project Objectives
+
+## Project Objectives 🎯
 
 - Analyze restaurant data to identify popular cuisines and dining trends.
 - Evaluate the impact of online ordering and booking facilities on restaurant ratings.
 - Explore the distribution of restaurants across different locations and types.
 - Understand the relationship between restaurant costs and ratings.
 
-## Analysis
+## Analysis 🔍
 
 
 ### 1. Cuisine Popularity
